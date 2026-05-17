@@ -1,0 +1,1 @@
+This project aims to simulate what I learned on git till now
